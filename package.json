@@ -19,6 +19,10 @@
   },
   "devDependencies": {
     "@ember/optional-features": "^1.1.0",
+    "@fortawesome/ember-fontawesome": "^0.2.1",
+    "@fortawesome/free-brands-svg-icons": "^5.12.1",
+    "@fortawesome/free-regular-svg-icons": "^5.12.1",
+    "@fortawesome/free-solid-svg-icons": "^5.12.1",
     "@glimmer/component": "^1.0.0",
     "babel-eslint": "^10.0.3",
     "broccoli-asset-rev": "^3.0.0",
@@ -56,6 +60,7 @@
     "edition": "octane"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.12.1",
     "bulma": "^0.8.0",
     "node-sass": "^4.13.1"
   }
