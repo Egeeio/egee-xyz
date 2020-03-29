@@ -1,5 +1,6 @@
 @charset "utf-8"
 @import "./node_modules/bulma/bulma.sass"
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap')
 
 $text-dark: #1b1b1b
 $text-light: #f6f9fc
@@ -7,14 +8,28 @@ $text-light: #f6f9fc
 $bg-dark: #04001c
 $bg-light: #f6f9fc
 
+$purple: #5e5cc7
+$orange: #fab633
+$white: #f6f9fc
+
+body
+  font-family: "Montserrat", sans-serif
+
 html
   background-color: $bg-dark
 
-body
-  font-family: "Lato", sans-serif
+a
+  color: #5e5cc7
+  font-weight: 500
 
-.ugh
-  color: $bg-dark
+.fa-links
+  color: #1b1b1b  
+
+.is-orange
+  background-color: $orange
+
+.is-purple
+  background-color: $white
 
 .navbar
   background-color: $bg-dark
