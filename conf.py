@@ -25,7 +25,7 @@ SITE_URL = "https://egee.xyz/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://egee.xyz/"
 BLOG_EMAIL = "brian@egee.io"
-BLOG_DESCRIPTION = "Egee/Brians project portfolio"  # (translatable)
+BLOG_DESCRIPTION = "Brian/Egee's project portfolio"  # (translatable)
 
 # Nikola is multilingual!
 #
