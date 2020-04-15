@@ -1,0 +1,4 @@
+Sitemap: https://egee.xyz/sitemapindex.xml
+
+User-Agent: *
+Host: egee.xyz
