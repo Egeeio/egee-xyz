@@ -1,0 +1,20 @@
+<!doctype html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="{{ '/static/bulma.min.css'|url }}">
+<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
+<title>egee.xyz — Egee's Project Protfolio!</title>
+<nav class="navbar" role="navigation" aria-label="main navigation"></nav>
+<body>
+  <div class="page">
+    {% block body %}{% endblock %}
+  </div>
+  <footer class="footer white-bg">
+    <div class="content has-text-centered">
+      <p>
+        <strong>Egee.xyz</strong> - styled with <a href="https://bulma.io/">Bulma</a>,
+        powered by <a href="https://www.getlektor.com/">Lektor</a>,
+        and hosted in <a href="https://aws.amazon.com/s3/">S3</a>.
+      </p>
+    </div>
+  </footer>
+</body>

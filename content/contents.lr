@@ -1,0 +1,112 @@
+title: 
+---
+body:
+
+<section class="hero is-medium">
+  <div class="hero-body white-bg">
+    <div class="container">
+      <h1 class="title">
+        Hiya, I'm Brian 🐺
+      </h1>
+      <h2 class="subtitle">
+        I like to create things.
+      </h2>
+      <div class="level-left">
+        <p class="level-item"><a class="fa-links" href="https://github.com/egee-irl"><FaIcon @icon="github-alt" @prefix="fab" @size="2x" /></a></p>
+        <p class="level-item"><a class="fa-links" href="https://twitter.com/egee_irl"><FaIcon @icon="twitter" @prefix="fab" @size="2x" /></a></p>
+        <p class="level-item"><a class="fa-links" href="https://t.co/KnMxkDGIpF?amp=1"><FaIcon @icon="youtube" @prefix="fab" @size="2x" /></a></p>
+        <p class="level-item"><a class="fa-links" href="https://www.linkedin.com/in/brian-eg/"><FaIcon @icon="linkedin" @prefix="fab" @size="2x" /></a></p>
+    </div>
+    </div>
+  </div>
+</section>
+<section class="section">
+<div class="tile is-ancestor">
+  <div class="tile is-vertical is-8">
+    <div class="tile">
+      <div class="tile is-parent is-vertical">
+        <article class="tile is-child notification is-info">
+        <p class="title">Egee.io</p>
+        <p class="subtitle">An inclusive gaming community</p>
+          <div class="content">
+          <p>Originally started as a Discord server for fans of the YouTube channel,
+            Egee.io grew into an active community online with members from all over the world.</p>
+          <p>All of the Egee.io server infrastructure is hosted in Linode and the dedicated game servers are deployed with gsd-cli.</p>
+          </div>
+        </article>
+        <article class="tile is-child notification is-orange">
+          <p class="title"><a href="">gsd-cli</a></p>
+          <p class="subtitle">A handy CLI for managing game servers.</p>
+          <div class="content">
+            <p>An <a href="https://github.com/oclif/oclif">oclif</a>-based CLI written in JavaScript with NodeJS to make deploying and managing dedicated game servers for the Egee.io community easier.</p>
+          </div>
+        </article>
+      </div>
+      <div class="tile is-parent">
+        <article class="tile is-child notification is-primary">
+          <p class="title">Egee - YouTube</p>
+          <p class="subtitle">Where it all started</p>
+          <p>A YouTube channel I created in 2014 where I produce weekly content about Linux
+             and do Live Streams to promote Linux as a desktop platform.</p><br>
+          <figure class="image is-4by3">
+            <a href="https://www.youtube.com/c/Egeeirl"><img alt="Placeholder until a proper introduction video is produced!" src="yt.jpg"></a>
+          </figure>
+        </article>
+      </div>
+    </div>
+    <div class="tile is-parent">
+      <article class="tile is-child notification is-white">
+        <p class="title"><a href="https://soundcloud.com/egeeirl/sets/egasts-developer-stories">Egasts! Podcast</a></p>
+        <p class="subtitle">Developer Stories</p>
+        <div class="content">
+          <p>A casual Podcast where a <a href="https://twitter.com/pdxkcm">friend</a> and I interview developers we've worked with about their stories
+             starting with their very first software job, and ending with advice to new and aspiring developers.</p>
+        </div>
+      </article>
+    </div>
+  </div>
+  <div class="tile is-parent">
+    <article class="tile is-child notification is-success">
+      <p class="title"><a href="http://games.egee.io/">jumper</a></p>
+      <p class="subtitle">A simple PhaserJS demo.</p>
+      <div class="content">
+        <p>A basic platformer game I made for a YouTube video written with PhaserJS 2 to demonstrate basic game development.</p>
+        <p>A <a href="https://github.com/egee-irl/the-game"></a>successor to jumper is in the <a href="https://github.com/egee-irl/the-game">works</a>
+        as game development is a hobby of mine.</p>
+        <figure class="image is-16by9">
+          <iframe class="has-ratio" src="https://www.youtube.com/embed/88DS3Z8nOdY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"></iframe>
+        </figure>
+      </div>
+    </article>
+  </div>
+</div>
+</section>
+  <section class="section">
+    <div class="container">
+      <h1 class="title white-text">About</h1>
+      <h2 class="subtitle white-text">
+        I'm Brian - just an ordinary guy from the Pacific Northwest of the 🇺🇸.
+      </h2>
+      <h2 class="subtitle white-text">
+        This website is like my virtual portfolio; I have lots of projects but these are the ones I'm most proud of.
+      </h2>
+      <h2 class="subtitle white-text">
+        I'm a software engineer by trade, mostly Web Development, with a particular focus in DevOps, SQA, and Release Management.
+        I'm well versed working remote and I have lots of experience working with teams and people from all over the world.
+      </h2>
+      <h2 class="subtitle white-text">
+        My spoken language is English, but I'm programming language agnostic. My comfort languages are <i>JavaScript</i>, <i>Ruby</i>, <i>Python</i>,
+        and <i>C#</i>, but I can quickly learn and use whatever.
+      </h2>
+      <h2 class="subtitle white-text">
+        If you'd like to get in touch with me about a project or product, feel free to email me at <b class="white-text">brian(a)egee.io</b>.
+      </h2>
+      <h2 class="subtitle white-text">
+        If you just want to chat or learn more about me and what I do, you can follow me on <a href="https://twitter.com/egee_irl">Twitter</a>,
+        subscribe to me on <a href="https://www.youtube.com/c/Egeeirl">YouTube</a>, or,
+        if you are feeling generous, support me on <a href="https://www.patreon.com/egeeirl">Patreon</a>! 
+      </h2>
+    </div>
+  </section>
+---
+_discoverable: no

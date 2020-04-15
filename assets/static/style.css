@@ -1,0 +1,48 @@
+body {
+  font-family: "Montserrat", sans-serif
+}
+
+html {
+  background-color: #04001c;
+}
+
+a {
+  color: #5e5cc7;
+  font-weight: 500;
+}
+
+.fa-links {
+  color: #1b1b1b;
+}
+
+.is-orange {
+  background-color: #fab633;
+}
+
+.is-purple {
+  background-color: #f6f9fc;
+}
+
+.navbar {
+  background-color: #04001c;
+}
+
+.hero-body .title {
+  font-weight: 800;
+}
+
+.dark-text {
+  color: #1b1b1b;
+}
+
+.dark-bg {
+  background-color: #04001c;
+}
+
+.white-text {
+  color: #f6f9fc;
+}
+
+.white-bg {
+  background-color: #f6f9fc;
+}
