@@ -26,7 +26,7 @@ body:
     <div class="tile">
       <div class="tile is-parent is-vertical">
         <article class="tile is-child notification is-info">
-        <p class="title">Egee.io</p>
+        <p class="title"><a href="https://egee.io">Egee.io</a></p>
         <p class="subtitle">An inclusive gaming community</p>
           <div class="content">
           <p>Originally started as a Discord server for fans of the YouTube channel,
