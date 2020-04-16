@@ -91,12 +91,12 @@ body:
         This website is like my virtual portfolio; I have lots of projects but these are the ones I'm most proud of.
       </h2>
       <h2 class="subtitle white-text">
-        I'm a software engineer by trade, mostly Web Development, with a particular focus in DevOps, SQA, and Release Management.
+        I'm a software engineer by trade with a focus in DevOps, SQA, and Release Management.
         I'm well versed working remote and I have lots of experience working with teams and people from all over the world.
       </h2>
       <h2 class="subtitle white-text">
-        My spoken language is English, but I'm programming language agnostic. My comfort languages are <i>JavaScript</i>, <i>Ruby</i>, <i>Python</i>,
-        and <i>C#</i>, but I can quickly learn and use whatever.
+        My spoken language is English, but I'm programming language agnostic. My comfort languages are
+        Python, JavaScript, and Ruby but I can quickly learn and use whatever.
       </h2>
       <h2 class="subtitle white-text">
         If you'd like to get in touch with me about a project or product, feel free to email me at <b class="white-text">brian(a)egee.io</b>.
