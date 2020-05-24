@@ -4,7 +4,9 @@
   "description": "egee's personal website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "./node_modules/.bin/http-server ./public",
+    "build": "pug ./src/index.pug ./public/index.html && sass --sourcemap=none ./src/assets/style/site.sass:public/assets/style/site.css && cp -r ./src/assets ./public/"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/egee-irl/egee-xyz#readme",
   "dependencies": {
-    "http-server": "^0.12.3"
+    "http-server": "^0.12.3",
+    "pug": "^2.0.4"
   }
 }
