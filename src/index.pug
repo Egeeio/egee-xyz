@@ -1,5 +1,10 @@
 html(lang="en")
   head
+    script(async src="https://www.googletagmanager.com/gtag/js?id=UA-73702747-8")
+    script= "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-73702747-8');"
+
+    meta(charset="utf-8")
+    meta(name="viewport" content="width=device-width, initial-scale=1")
     title Egee.xyz - Open Sorcerer + Linux Aficionado
     link(rel="icon" type="image/png" href="./favicon.png")
     link(rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css")
@@ -43,8 +48,10 @@ body
                 p(class="title" style="margin-bottom: .5rem;")
                   a(href="https://www.youtube.com/c/Egeeirl") Egee - YouTube
                 p A YouTube channel I created in 2014 where I produce the Distro Delves series, live streams, and cover various other technical subjects.
-                figure(class="image is-4by3" style="padding-top: 6%;")
-                  <iframe width="560" height="315" src="https://www.youtube.com/embed/COnaE1dYqqc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                br
+                figure(class="image is-3by2")
+                  a(href="")
+                    img(src="./assets/img/home.jpg")
           div(class="tile is-parent")
             article(class="tile is-child notification is-silver")
               p(class="title")
