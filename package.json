@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "./node_modules/.bin/http-server ./public",
-    "build": "./node_modules/.bin/pug ./src --out ./public && sass --no-source-map ./src/site.sass:public/assets/style/site.css --style compressed",
+    "build": "./node_modules/.bin/pug ./src --out ./public && sass --no-source-map ./src/site.sass:public/site.css --style compressed",
     "start": "npm run build && npm run serve"
   },
   "repository": {
