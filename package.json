@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "./node_modules/.bin/http-server ./public",
-    "build": "pug ./src --out ./public && sass --sourcemap=none ./src/assets/style/site.sass:public/assets/style/site.css && cp -r ./src/assets ./public/",
+    "build": "./node_modules/.bin/pug ./src --out ./public && sass ./src/site.sass:public/assets/style/site.css",
     "start": "npm run build && npm run serve"
   },
   "repository": {
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/egee-irl/egee-xyz#readme",
   "devDependencies": {
     "http-server": "^0.12.3",
+    "node-sass": "^4.14.1",
     "pug-cli": "^1.0.0-alpha6"
   }
 }
