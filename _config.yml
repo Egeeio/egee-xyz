@@ -1,0 +1,40 @@
+# Setup
+title:            Egee
+tagline:          "Egee's personal home page"
+description:      "cluttered drawer of links"
+url:              http://egee.xyz
+baseurl:          ''
+paginate:         5
+
+author:
+  name:           Egee
+  url:            https://egee.xyz
+
+
+# Dependencies
+# markdown:         redcarpet
+# highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
+exclude:
+- README.md
+- LICENSE
+- Gemfile
+- Gemfile.lock
+- Rakefile
+- .jekyll-cache
+- .gitignore
+- .editorconfig
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
