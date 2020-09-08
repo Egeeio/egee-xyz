@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Lato", Helvetica, Arial, sans-serif;
+  font-family: "Nunito", "Roboto", sans-serif;
 }
 
 @media (min-width: 48em) {
@@ -250,7 +250,13 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-.sidebar-about h1 {
+.post-title {
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 900;
+}
+
+.post h3 {
   font-family: "Lato";
   font-style: italic;
   font-weight: 900;
@@ -262,12 +268,7 @@ a.sidebar-nav-item:focus {
   font-weight: 900;
 }
 
-.sidebar-about .yeet {
-  font-family: "Lato";
-  font-style: italic;
-  font-weight: 900;
-}
-
+/* TODO: Just resize the damn thing */
 .responsive {
-  height: 400px;
+  height: 400px; 
 }
