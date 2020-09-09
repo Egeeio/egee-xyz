@@ -60,14 +60,17 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #f6f9fc;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #268bd2;
+  /* color: #5e5cc7; */
+  /* color: #F012BE; */
+  /* color: #B10DC9; */
+  color: #530DC9;
   text-decoration: none;
 }
 a strong {

@@ -251,9 +251,7 @@ a.sidebar-nav-item:focus {
 }
 
 .post-title {
-  font-family: "Lato";
-  font-style: italic;
-  font-weight: 900;
+  font-weight: 800;
 }
 
 .post h3 {
@@ -268,7 +266,16 @@ a.sidebar-nav-item:focus {
   font-weight: 900;
 }
 
-/* TODO: Just resize the damn thing */
-.responsive {
-  height: 400px; 
+h1 {
+  font-weight: 700;
+}
+
+.sidebar-sticky img {
+  max-width: 85%;
+}
+
+@media (max-width: 48em) {
+  .sidebar-sticky img {
+    max-width: 0%;
+  }
 }
