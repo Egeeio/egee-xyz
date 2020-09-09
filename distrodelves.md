@@ -3,30 +3,41 @@ title: Distro Delves
 layout: page
 ---
 
-The Operating System & Linux Distro non-review web series on YouTube examining different Operating Systems just for the fun of it.
+The original Operating System & Linux Distro review series on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!
 
-Despite the name, the series covers Operating System flavors or, as the Linux community likes to call them, Distributions.
+Despite the name, the series intends to cover *all* Operating Systems. Or, as the Linux community likes to call them, **Distributions**!
 
-—
+### What's the point?
+Because operating systems are fun! *(seriously)*
 
-Each episode looks at a different operating system and quickly looks at the basics of an OS from the perspective of an average user. Episodes are meant to be informative and entertaining!
+Each episode looks at a different operating system and quickly examines the basics of an OS from an average user's perspective.
 
-A regular episode usually has 6ish parts:
+A regular episode usually has these segments:
 
 - Install
-- Desktop & Default Apps
-- Device + Media *tests*
-- Network & Connectivity *tests*
+- Desktop & Apps
+- Devices + Media
+- Network & Sharing
 - Gaming (legacy)
 - Summary
 
-The “script” for writing episodes is flexible because every OS & Distro is different. Which means each Distro Delves episode is a bit different. The script & tests are largely based on these checklists.
+Episodes are meant to be informative *and* entertaining!
 
-The series is open and is planned in Github, the video is captured on real hardware, and everything is produced with Linux & Open Source Software.
+### Hardware
+Most episodes are recorded on physical hardware!
 
-The current series list & hardware interations of the Distro Delves with the test PC's:
+The Distro Delves PC changes based on the season and what the *theme* is:
 
 | Season      | CPU | GPU | RAM | SSD| Theme |
 | ----------- |
-| One   | A8-7600 | 750ti | 16GB | Samsung | Spare Parts|
-| Two   | A8-7600 | 750ti & r370 | 8GB | ADATA | 2015-era |
+| One   | A8-7600 | 750ti | 16GB | Samsung 830 | Spare Parts|
+| Two   | A8-7600 | 750ti or r370 | 8GB | ADATA SP550 | 2015-era |
+
+### Production Software
+All episodes are produced with Linux & Open Software! The only exception is my [HD60](https://amzn.to/335LjSs), which only has driver support for macOS & Windows.
+
+Episode scripts are written in [Notion](https://www.notion.so/) and checked with [Grammarly](https://www.grammarly.com/).
+
+Voice-over audio is recorded and edited using [Audacity](https://www.audacityteam.org/). I use Noise-Gate and Compressor plugins. My microphone is a [SM57](https://amzn.to/3m4x4Gq).
+
+Episodes are produced and rendered using [Kdenlive](https://kdenlive.org/en/) [18.12](https://files.kde.org/kdenlive/release/), the last truly stable version of Kdenlive.
