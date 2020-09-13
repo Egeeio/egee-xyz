@@ -3,30 +3,30 @@ title: Distro Delves
 layout: page
 ---
 
-The original Operating System & Linux Distro review series on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!
+_The original Operating System & Linux Distro review series on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_
 
 Despite the name, the series intends to cover *all* Operating Systems. Or, as the Linux community likes to call them, **Distributions**!
 
 ### What's the point?
 Because operating systems are fun! *(seriously)*
 
-Each episode looks at a different operating system and quickly examines the basics of an OS from an average user's perspective.
+Each episode looks at a different operating system and quickly examines the basics from an average user's perspective.
 
 A regular episode usually has these segments:
 
 - Install
 - Desktop & Apps
-- Devices + Media
 - Network & Sharing
+- Devices + Media
 - Gaming (legacy)
 - Summary
 
-Episodes are meant to be informative *and* entertaining!
+Episodes are written to be informative *and* entertaining!
 
 ### Hardware
 Most episodes are recorded on physical hardware!
 
-The Distro Delves PC changes based on the season and what the *theme* is:
+The "Distro Delves PC" changes based on the season and what the *theme* is:
 
 | Season      | CPU | GPU | RAM | SSD| Theme |
 | ----------- |

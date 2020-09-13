@@ -3,9 +3,9 @@ title: My OC's
 layout: page
 ---
 
-OC stands for "Original Character - kind of like a character you create in an RPG game!
+OC stands for "Original Character. It's a bit like a character you create in a roleplaying game!
 
-Some people create characters and fursonas with backstories and personalities. Some have artwork and stories, and others have full fursuits!
+Some people create characters & fursonas with backstories and personalities. Some just have artwork and others have fursuits!
 
 Here are some of the OC's I have created:
 
