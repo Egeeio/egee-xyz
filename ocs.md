@@ -1,6 +1,7 @@
 ---
-title: My OC's
-layout: page
+title:     My OC's
+layout:    page
+permalink: ocs
 ---
 
 An OC is an "Original Character. It's a bit like a character in a story!
