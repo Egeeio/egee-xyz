@@ -7,5 +7,6 @@ deploy:
   secret_access_key: "${KEY}"
   bucket: "egee.xyz"
   region: us-west-2
+  acl: public_read
   local_dir: _site
   skip_cleanup: true
