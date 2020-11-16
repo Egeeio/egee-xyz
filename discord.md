@@ -3,7 +3,7 @@ title:     Discord
 layout:    page
 ---
 
-My favorite haunt is the the [Egee.io Discord server](https://discord.gg/EMbcgR8) Discord server which is also the nexus for the [Egee.io](https://egee.io) community!
+My favorite haunt is the the [Egee.io Discord server](https://discord.gg/EMbcgR8) which is also home to the [Egee.io](https://egee.io) community!
 
 It is less of a server _for me_ and more of a server for my viewers, fans, and friends.
 
