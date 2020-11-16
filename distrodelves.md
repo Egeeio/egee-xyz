@@ -4,35 +4,28 @@ layout:    page
 permalink: distrodelves
 ---
 
-_The original Operating System & Linux Distro review series on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_
+_The best damn Operating System & Linux Distro review series on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_
 
-Despite the name, the series intends to cover *all* Operating Systems. Or, as the Linux community likes to call them, **Distributions**!
+Despite the name, the series covers *all* Operating Systems. Or, as the Linux community likes to call them, **Distributions**!
 
 ### What's the point?
-Because operating systems are fun! *(seriously)*
+Because operating systems are fun! *(no, seriously)*
 
 Each episode looks at a different operating system and quickly examines the basics from an average user's perspective.
 
-A regular episode usually has these segments:
+A live episode usually has these segments:
 
 - Install
+- Resource Usage
 - Desktop & Apps
 - Network & Sharing
-- Devices + Media
-- Gaming (legacy)
-- Summary
+- External Devices
+- Media Playback
+- Destruction/Bricking
 
-Episodes are written to be informative *and* entertaining!
+Episodes are meant to be informative *and* entertaining!
 
-### Hardware
-Most episodes are recorded on physical hardware!
-
-The "Distro Delves PC" changes based on the season and what the *theme* is:
-
-| Season      | CPU | GPU | RAM | SSD| Theme |
-| ----------- |
-| One   | A8-7600 | 750ti | 16GB | Samsung 830 | Spare Parts|
-| Two   | A8-7600 | 750ti or r370 | 8GB | ADATA SP550 | 2015-era |
+Each episode is streamed on physical hardware when possible. Some operating systems require special or outdated hardware and for those, virtualization (QEMU, Dosbox, etc) is used.
 
 ### Production Software
 All episodes are produced with Linux & Open Software! The only exception is my [HD60](https://amzn.to/335LjSs), which only has driver support for macOS & Windows.
