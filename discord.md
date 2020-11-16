@@ -1,7 +1,7 @@
 ---
 title:     Discord
 layout:    page
-permalink: discord
+permalink: /discord/
 ---
 
 My favorite haunt is the the [Egee.io Discord server](https://discord.gg/EMbcgR8) Discord server which is also the nexus for the [Egee.io](https://egee.io) community!
