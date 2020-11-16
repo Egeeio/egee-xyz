@@ -16,7 +16,7 @@ Egee is my fursona! His original appearance was based on my White Husky named Gh
 
 He was the very first mascot for the YouTube channel before I even knew what the furry fandom was.
 
-His outfit usually consists of a red hoodie, black tank-top, and dark jeans. He occasionally wears shorts instead pants, usually sans hoodie. His his is brown and shaggy between his ears and neck.
+His outfit usually consists of a red hoodie, black tank-top, and dark jeans. He occasionally wears shorts instead pants, usually sans hoodie. His hair is brown and shaggy between his ears and neck.
 
 Egee is very festive and loves holidays & color. His favorite alt hairstyle is half-dye with the Bi Pride Flag.
 
