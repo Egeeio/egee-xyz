@@ -1,7 +1,6 @@
 ---
 title:     Distro Delves Show
 layout:    page
-permalink: /distrodelves/
 ---
 
 _The best damn Operating System & Linux Distro review series on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_

@@ -1,7 +1,6 @@
 ---
 title:     My OC's
 layout:    page
-permalink: /ocs/
 ---
 
 OC means _Original Character_. It's a bit like a character in a story!
