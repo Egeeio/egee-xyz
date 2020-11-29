@@ -1,13 +1,14 @@
-title:            Egee.xyz
-tagline:          "Personal Home Page"
-description:      "cluttered drawer of links"
-url:              https://egee.xyz
-baseurl:          ''
-paginate:         5
+title:       Egee.xyz
+tagline:     "Personal Home Page"
+description: "cluttered drawer of links"
+url:         https://egee.xyz
+permalink:   pretty
+baseurl:     ''
+paginate:    5
+
 author:
-  name:           Egee
-  url:            https://egee.xyz
-permalink: pretty
+  name: Egee
+  url:  https://egee.xyz
 
 plugins:
   - jekyll-sitemap
