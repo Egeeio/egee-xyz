@@ -3,14 +3,14 @@ title:     Distro Delves Show
 layout:    page
 ---
 
-_The best damn Operating System & Linux Distro review series on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_
+_The best damn Operating System & Linux Distro overview show on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_
 
-Despite the name, the series covers *all* Operating Systems. Or, as the Linux community likes to call them, **Distributions**!
+Despite the name, the show covers *all* Operating Systems. Or, as the Linux community likes to call them, **Distributions**!
 
 ### What's the point?
 Because operating systems are fun! *(no, seriously)*
 
-Each episode looks at a different operating system and quickly examines the basics from an average user's perspective.
+Each episode looks at an operating system and quickly examines the it from an average user's perspective.
 
 A live episode usually has these segments:
 
