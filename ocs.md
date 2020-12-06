@@ -38,9 +38,7 @@ Androgee is a protogen and a foil to Egee. I don't have a commission of him yet 
 
 The name Androgee comes from _Android_ and _Egee_ because I wanted a super clever name for my [Discord bot](https://github.com/egee-irl/androgee-legacy).
 
-The API key got leaked and Androgee griefed the Discord server. After that, I got the idea that Androgee would be an antagonist to Egee.
-
-Androgee is a relatively basic protogen that resembles Egee. He is seemingly under the control of Egee. For now.
+Androgee is a relatively basic protogen that somewhat resembles Egee. He is Egee's sidekick, a bit like Yoshi to Mario or Rush to Megaman.
 
 ## Felicity
 ![]({{ 'public/felicityby_@rainiing.jpg' | relative_url }})
