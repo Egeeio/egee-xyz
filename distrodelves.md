@@ -3,16 +3,19 @@ title:     Distro Delves Show
 layout:    page
 ---
 
-_The best damn Operating System & Linux Distro overview show on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_
+_The original Operating System Radio Show on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_
 
 Despite the name, the show covers *all* Operating Systems. Or, as the Linux community likes to call them, **Distributions**!
 
-### What's the point?
-Because operating systems are fun! *(no, seriously)*
+Episodes are meant to be informative *and* entertaining!
 
-Each episode looks at an operating system and quickly examines the it from an average user's perspective.
 
-A live episode usually has these segments:
+### Is this really a thing?
+Yes! Operating Systems are fun! *(no, seriously)*
+
+Each show looks at an operating system and quickly examines the it from an average user's perspective.
+
+A regular episode usually has these segments:
 
 - Install
 - Resource Usage
@@ -22,15 +25,11 @@ A live episode usually has these segments:
 - Media Playback
 - Destruction/Bricking
 
-Episodes are meant to be informative *and* entertaining!
-
 Each episode is streamed on physical hardware when possible. Some operating systems require special or outdated hardware and for those, virtualization (QEMU, Dosbox, etc) is used.
 
-### Production Software
-All episodes are produced with Linux & Open Software! The only exception is my [HD60](https://amzn.to/335LjSs), which only has driver support for macOS & Windows.
+### Why is the music so loud?
+A huge part of the Distro Delves Show **is** the background music!
 
-Episode scripts are written in [Notion](https://www.notion.so/) and checked with [Grammarly](https://www.grammarly.com/).
+I usually try to pick background music that fits with the operating system under test. For example, an episode looking at Windows 95 would have songs from the 90s as background music.
 
-Voice-over audio is recorded and edited using [Audacity](https://www.audacityteam.org/). I use Noise-Gate and Compressor plugins. My microphone is a [SM57](https://amzn.to/3m4x4Gq).
-
-Episodes are produced and rendered using [Kdenlive](https://kdenlive.org/en/) [18.12](https://files.kde.org/kdenlive/release/), the last truly stable version of Kdenlive.
+I like listening to music so why not play some good tunes while reviewing an operating system?
