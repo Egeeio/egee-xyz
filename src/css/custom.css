@@ -6,6 +6,7 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url("https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css");
 :root {
   --ifm-color-primary: #25c2a0;
   --ifm-color-primary-dark: rgb(33, 175, 144);
