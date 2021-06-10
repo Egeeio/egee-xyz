@@ -25,6 +25,18 @@ function HomepageHeader() {
   );
 }
 
+function EgTile({topic}) {
+  return (
+    <div className="tile is-ancestor">
+      <div className="tile is-parent">
+        <div className="tile is-child box">
+          <p className="title">{topic}</p>
+        </div>
+      </div>
+    </div>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
@@ -33,6 +45,9 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
+        <EgTile topic="Twitter"/>
+        <EgTile topic="Twitch"/>
+        <EgTile topic="Ko-fi"/>
         <HomepageFeatures />
       </main>
     </Layout>
