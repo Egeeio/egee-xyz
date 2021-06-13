@@ -37,18 +37,32 @@ function EgTile({topic}) {
   );
 }
 
+function EgHero({topic}) {
+  return (
+    <figure className="image is-128x128">
+      <img src="https://bulma.io/images/placeholders/128x128.png"/>
+    </figure>
+  );
+}
+
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-      <HomepageHeader />
       <main>
-        <EgTile topic="Twitter"/>
-        <EgTile topic="Twitch"/>
-        <EgTile topic="Ko-fi"/>
-        <HomepageFeatures />
+        <div className="container">
+          <EgHero />
+          <EgTile topic="Twitter"/>
+          <EgTile topic="Twitch"/>
+          <EgTile topic="Ko-fi"/>
+          <EgTile topic="Soundcloud"/>
+          <hr />
+          <EgTile topic="YouTube 1"/>
+          <EgTile topic="YouTube 2"/>
+          <EgTile topic="YouTube 3"/>
+        </div>
       </main>
     </Layout>
   );
