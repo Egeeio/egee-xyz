@@ -1,6 +1,6 @@
 language: ruby
-install: bundle install
-script: rake build
+install: cd src && bundle install
+script: cd src && rake build
 deploy:
   provider: s3
   access_key_id: "${ACCESS}"
