@@ -1,5 +1,9 @@
 language: ruby
-install: cd "${TRAVIS_BUILD_DIR}/src" && bundle install
+env:
+  - JEKYLL_ENV="production"
+install:
+  - cd "${TRAVIS_BUILD_DIR}/src"
+  - bundle install
 script: cd "${TRAVIS_BUILD_DIR}/src" && rake build
 deploy:
   provider: s3
@@ -11,4 +15,4 @@ deploy:
   local_dir: _site
   skip_cleanup: true
   on:
-      branch: master
+    branch: master
