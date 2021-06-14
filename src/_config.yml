@@ -4,15 +4,12 @@ description: "cluttered drawer of links"
 url:         https://egee.xyz
 permalink:   pretty
 baseurl:     ''
-paginate:    5
 
 author:
   name: Egee
   url:  https://egee.xyz
 
-plugins:
-  - jekyll-sitemap
-  - jekyll-paginate
+plugins: []
 
 exclude:
 - README.md
