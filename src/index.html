@@ -3,20 +3,53 @@ layout: default
 title: Home
 ---
 
-<p>I'm Brian. But you probably know me as Egee from YouTube!</p>
+<!-- <section class="hero">
+    <div class="hero-body">
+        <div class="container has-text-centered"></div>
+        <figure class="image is-128x128">
+            <img src="public/face.png">
+          </figure>
+        <p class="subtitle">
+        Egee Links!
+        </p>
+    </div>
+</section> -->
 
-<p>I host the <a href="/distrodelves">Distro Delves Show</a> and produce content for a few other channels.</p>
+<section class="hero">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <div class="level">
+        <div class="level-item has-text-centered">
+          <figure class="image is-128x128">
+            <img class="is-rounded" src="public/face.png" />
+          </figure>
+        </div>
+      </div>
+      <p class="subtitle">Egee's Links!</p>
+    </div>
+  </div>
+</section>
 
-<p>This is my Personal Home Page ™ and link aggregator of sorts.</p>
-
-<h3>Who is Egee?</h3>
-
-<p>Egee is an anthropomorphic Red Husky! He started out as a mascot & character for my <a href="https://www.youtube.com/c/Egeeirl">YouTube channel</a> but now he's just me.</p>
-
-<p>I'm a software engineer with a focus on DevOps and SQA. I currently reside in the <a href="https://en.wikipedia.org/wiki/Pacific_Northwest">Pacific Northwest</a>.</p>
-
-<p>My spoken language is English but I am programming language agnostic. My favorite languages are Python, CoffeeScript, Ruby, and Bash.</p>
-
-<p>I also live stream on <a href="https://www.twitch.tv/egeexyz">Twitch</a>, run & moderate <a href="https://egee.io">Egee.io</a>, and hack on lots of Open Source Software projects.</p>
-
-<p>If you want to get in touch with me, I'm always on <a href="https://twitter.com/egee_irl">Twitter</a> and <a href="https://egee.io">Discord</a>.</p>
+{% for topic in site.topics %}
+<div class="container has-text-centered">
+  <div class="tile is-ancestor">
+    <div class="tile is-parent">
+      <div class="tile is-child box">
+        <a class="title" href="{{ topic.item.link }}">{{ topic.item.name }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+<hr />
+{% for topic in site.youtubes %}
+<div class="container has-text-centered">
+  <div class="tile is-ancestor">
+    <div class="tile is-parent">
+      <div class="tile is-child box">
+        <a class="title" href="{{ topic.item.link }}">{{ topic.item.name }}</a>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}

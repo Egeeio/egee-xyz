@@ -1,22 +1,56 @@
-title:       Egee.xyz
-tagline:     "Personal Home Page"
+title: Egee.xyz
+tagline: "Personal Home Page"
 description: "cluttered drawer of links"
-url:         https://egee.xyz
-permalink:   pretty
-baseurl:     ''
+url: https://egee.xyz
+permalink: pretty
+baseurl: ""
+
+topics:
+  - item:
+      name: Twitter
+      url: "https://twitter.com/egee_irl"
+  - item:
+      name: Twitch
+      url: "https://www.twitch.tv/egeexyz"
+  - item:
+      name: Github
+      url: https://github.com/egee-irl
+  - item:
+      name: Ko-fi
+      url: "https://ko-fi.com/egee"
+  - item:
+      name: Unsplash
+      url: "https://unsplash.com/@egeeirl"
+  - item:
+      name: Soundcloud
+      url: "https://soundcloud.com/egeeirl"
+
+youtubes:
+  - item:
+      name: OG Egee
+      url: "https://www.youtube.com/user/EtherealGaming1"
+  - item:
+      name: Egee Nuevo
+      url: "https://www.youtube.com/user/PanopticonMusic1"
+  - item:
+      name: "Open Egee"
+      url: "https://www.youtube.com/channel/UCjaqCM6u1i78VNsoL_jW5lg"
+  - item:
+      name: "Egee's Archives"
+      url: "https://www.youtube.com/channel/UCVE569aZRrsee3y4dvY3oGQ"
 
 author:
   name: Egee
-  url:  https://egee.xyz
+  url: https://egee.xyz
 
 plugins: []
 
 exclude:
-- README.md
-- LICENSE
-- Gemfile
-- Gemfile.lock
-- Rakefile
-- .jekyll-cache
-- .gitignore
-- .editorconfig
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - .jekyll-cache
+  - .gitignore
+  - .editorconfig
