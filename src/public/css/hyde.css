@@ -13,7 +13,6 @@
  * https://github.com/poole/hyde.
  */
 
-
 /*
  * Contents
  *
@@ -24,16 +23,11 @@
  * Themes
  */
 
-
 /*
  * Global resets
  *
  * Update the foundational and global aspects of the page.
  */
-
-html {
-  font-family: "Nunito", "Roboto", sans-serif;
-}
 
 @media (min-width: 48em) {
   html {
@@ -46,7 +40,6 @@ html {
   }
 }
 
-
 /*
  * Sidebar
  *
@@ -57,7 +50,7 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: rgba(255,255,255,.5);
+  color: rgba(255, 255, 255, 0.5);
   background-color: #202020;
 }
 @media (min-width: 48em) {
@@ -109,12 +102,11 @@ a.sidebar-nav-item:focus {
 @media (min-width: 48em) {
   .sidebar-sticky {
     position: absolute;
-    right:  1rem;
+    right: 1rem;
     bottom: 1rem;
-    left:   1rem;
+    left: 1rem;
   }
 }
-
 
 /* Container
  *
@@ -123,7 +115,7 @@ a.sidebar-nav-item:focus {
  */
 
 .content {
-  padding-top:    4rem;
+  padding-top: 4rem;
   padding-bottom: 4rem;
 }
 
@@ -141,7 +133,6 @@ a.sidebar-nav-item:focus {
     margin-right: 4rem;
   }
 }
-
 
 /*
  * Reverse layout
@@ -166,8 +157,6 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
-
-
 
 /*
  * Themes
@@ -248,34 +237,4 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .content a,
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
-}
-
-.post-title {
-  font-weight: 800;
-}
-
-.post h3 {
-  font-family: "Lato";
-  font-style: italic;
-  font-weight: 900;
-}
-
-.sidebar-about h1 {
-  font-family: "Lato";
-  font-style: italic;
-  font-weight: 900;
-}
-
-h1 {
-  font-weight: 700;
-}
-
-.sidebar-sticky img {
-  max-width: 85%;
-}
-
-@media (max-width: 48em) {
-  .sidebar-sticky img {
-    max-width: 0%;
-  }
 }
