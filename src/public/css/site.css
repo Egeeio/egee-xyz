@@ -1,8 +1,10 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma-rtl.min.css";
+
 html {
   font-family: "Nunito", "Roboto", sans-serif;
 }
 
-.post-title {
+/* .post-title {
   font-weight: 800;
 }
 
@@ -30,4 +32,4 @@ h1 {
   .sidebar-sticky img {
     max-width: 0%;
   }
-}
+} */
