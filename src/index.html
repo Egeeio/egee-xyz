@@ -3,18 +3,6 @@ layout: default
 title: Home
 ---
 
-<!-- <section class="hero">
-    <div class="hero-body">
-        <div class="container has-text-centered"></div>
-        <figure class="image is-128x128">
-            <img src="public/face.png">
-          </figure>
-        <p class="subtitle">
-        Egee Links!
-        </p>
-    </div>
-</section> -->
-
 <section class="hero">
   <div class="hero-body">
     <div class="container has-text-centered">
@@ -25,31 +13,49 @@ title: Home
           </figure>
         </div>
       </div>
-      <p class="subtitle">Egee's Links!</p>
+      <p class="subtitle">Egee Tracks!</p>
     </div>
   </div>
 </section>
 
 {% for topic in site.topics %}
 <div class="container has-text-centered">
-  <div class="tile is-ancestor">
-    <div class="tile is-parent">
-      <div class="tile is-child box">
-        <a class="title" href="{{ topic.item.link }}">{{ topic.item.name }}</a>
+  <a href="{{ topic.item.url }}">
+    <div class="tile is-ancestor">
+      <div class="tile is-parent">
+        <div class="tile is-child box" href="{{ topic.item.url }}">
+          <span class="title">{{ topic.item.name }}</span>
+        </div>
       </div>
     </div>
-  </div>
+  </a>
 </div>
 {% endfor %}
 <hr />
 {% for topic in site.youtubes %}
 <div class="container has-text-centered">
-  <div class="tile is-ancestor">
-    <div class="tile is-parent">
-      <div class="tile is-child box">
-        <a class="title" href="{{ topic.item.link }}">{{ topic.item.name }}</a>
+  <a href="{{ topic.item.url }}">
+    <div class="tile is-ancestor">
+      <div class="tile is-parent">
+        <div class="tile is-child box" href="{{ topic.item.url }}">
+          <span class="title">{{ topic.item.name }}</span>
+        </div>
       </div>
     </div>
-  </div>
+  </a>
+</div>
+{% endfor %}
+<hr />
+{% for topic in site.internal %}
+<div class="container has-text-centered">
+  <a href="{{ topic.item.url }}">
+    <div class="tile is-ancestor">
+      <div class="tile is-parent">
+        <div class="tile is-child box" href="{{ topic.item.url }}">
+          <span class="title">{{ topic.item.name }}</span>
+        </div>
+      </div>
+    </div>
+  </a>
 </div>
 {% endfor %}

@@ -27,17 +27,25 @@ topics:
 
 youtubes:
   - item:
-      name: OG Egee
+      name: YouTube - OG Egee
       url: "https://www.youtube.com/user/EtherealGaming1"
   - item:
-      name: Egee Nuevo
+      name: YouTube - Egee Nuevo
       url: "https://www.youtube.com/user/PanopticonMusic1"
   - item:
-      name: "Open Egee"
+      name: "YouTube - Open Egee"
       url: "https://www.youtube.com/channel/UCjaqCM6u1i78VNsoL_jW5lg"
   - item:
-      name: "Egee's Archives"
+      name: "YouTube - Egee's Archives"
       url: "https://www.youtube.com/channel/UCVE569aZRrsee3y4dvY3oGQ"
+
+internal:
+  - item:
+      name: OC's
+      url: /ocs
+  - item:
+      name: Distro Delves
+      url: /distrodelves
 
 author:
   name: Egee
