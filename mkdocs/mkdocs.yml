@@ -1,0 +1,6 @@
+site_name: Egee Docs!
+site_url: https://docs.egee.xyz/
+site_description: Docs for all things Egee!
+site_author: Egee
+theme:
+  name: ivory
