@@ -1,10 +1,10 @@
+# Show Premise
+
 _The original Operating System Radio Show on [YouTube](https://www.youtube.com/playlist?list=PLTGHiAlif1EhnNQozcSwu2ZSt7oDWaX0J)!_
 
 Despite the name, the show covers _all_ Operating Systems. Or, as the Linux community likes to call them, **Distributions**!
 
 Episodes are meant to be informative _and_ entertaining!
-
-### Is this really a thing?
 
 Yes! Operating Systems are fun! _(no, seriously)_
 
@@ -21,8 +21,6 @@ A regular episode usually has these segments:
 - Destruction/Bricking
 
 Each episode is streamed on physical hardware when possible. Some operating systems require special or outdated hardware and for those, virtualization (QEMU, Dosbox, etc) is used.
-
-### Why is the music so loud?
 
 A huge part of the Distro Delves Show **is** the background music!
 

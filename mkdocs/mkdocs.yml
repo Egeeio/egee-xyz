@@ -4,3 +4,5 @@ site_description: Docs for all things Egee!
 site_author: Egee
 theme:
   name: ivory
+  locale: en
+  custom_dir: theme/
