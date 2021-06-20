@@ -1,29 +1,10 @@
-<footer>
-  {%- block next_prev %} {%- if page and page.next_page or page.previous_page %}
-  <div class="footer-buttons">
-    {%- if page.previous_page %}
-    <div class="previous">
-      <a
-        href="{{ page.previous_page.url|url }}"
-        title="{{ page.previous_page.title|striptags }}"
-        ><span>Previous</span></a
-      >
-    </div>
-    {%- endif %} {%- if page.next_page %}
-    <div class="next">
-      <a
-        href="{{ page.next_page.url|url }}"
-        title="{{ page.next_page.title|striptags }}"
-        ><span>Next</span></a
-      >
-    </div>
-    {%- endif %}
-  </div>
-  {%- endif %} {%- endblock %}
-  <div class="footer-note">
+<footer class="footer">
+  <div class="container has-text-centered">
+    <p>Handcrafted with ❤️ in the Pacific Northwest 🌲🏳️‍🌈</p>
     <p>
-      Built with <a href="http://www.mkdocs.org">MkDocs</a> using
-      <a href="https://github.com/daizutabi/mkdocs-ivory">Ivory theme</a>.
+      Built with <a href="https://jekyllrb.com/docs/">Jekyll</a> and
+      <a href="https://bulma.io/documentation/">Bulma.io</a>, hosted in
+      <a href="https://aws.amazon.com/cloudfront/">AWS</a>.
     </p>
   </div>
 </footer>

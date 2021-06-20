@@ -1,0 +1,13 @@
+require 'rake/clean'
+
+task :serve do
+  sh "mkdocs serve"
+end
+
+task :build do
+  sh "rm -rf ./site"
+
+  sh "mkdocs build"
+end
+
+task default: [:serve]

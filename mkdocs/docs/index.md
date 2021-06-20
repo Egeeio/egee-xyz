@@ -1,29 +1,32 @@
 # Home
 
-Welcome to The Egee Docs!
+Welcome to The Egee Docs! - This is a handy index for all of the things and projects that Egee works on.
 
-This is just handy website and index for all of the things and projects that Egee works on.
+To navigate the site, there's a side panel with links to all the different projects & things I am working on and a table of contents below and some sub-sections below it.
 
-To navigate the site, there's a side panel with a search bar and links to all the different projects & things I am working on. There's also a table of contents below as well as some sub-sections below it.
+<br>
 
 ## Table of Contents
 
-- Distro Delves
+#### Distro Delves
 
-  - [What is it?](show): What even is Distro Delves anyway?
-  - [Checklist](checklist): The checklist I (sometimes) use on the show.
-  - [Soundtrack](music): Where to find the awesome music I play on the show.
-  - [Guests](guests): The special guests I've had come on the show live.
-  - [YouTube or Twitch?](youtube_twitch): The struggle between streaming on YouTube or Twitch.
+- [What is it?](show): What even is Distro Delves anyway?
+- [Checklist](checklist): The checklist I (sometimes) use on the show.
+- [Soundtrack](music): Where to find the awesome music I play on the show.
+- [Guests](guests): The special guests I've had come on the show live.
+- [YouTube or Twitch?](youtube_twitch): The struggle between streaming on YouTube or Twitch.
 
-- Original Characters
+#### Original Characters
 
-  - [Egee](egee): It's me!
-  - [Androgee](androgee): My nefarious helper.
-  - [Laiokan](laiokan): The OG oc.
-  - [Felicity](felicity): What is a fossa, anyway?
+- [Egee](egee): It's me!
+- [Androgee](androgee): My nefarious helper.
+- [Laiokan](laiokan): The OG oc.
+- [Felicity](felicity): What is a fossa, anyway?
 
-- Games - [Jumper](jumper): My first real "game". - [The Egee Game](egee_game): A platformer inspired by DuckTales on NES.
+#### Games
+
+- [Jumper](jumper): My first real "game".
+- [The Egee Game](egee_game): A platformer inspired by DuckTales on NES.
 <br/><br/>
 <hr/>
 
