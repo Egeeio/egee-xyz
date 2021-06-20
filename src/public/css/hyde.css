@@ -29,10 +29,6 @@
  * Update the foundational and global aspects of the page.
  */
 
-html {
-  font-family: "Nunito", "Roboto", sans-serif;
-}
-
 @media (min-width: 48em) {
   html {
     font-size: 16px;
@@ -135,35 +131,5 @@ a.sidebar-nav-item:focus {
   .content {
     margin-left: 22rem;
     margin-right: 4rem;
-  }
-}
-
-.post-title {
-  font-weight: 800;
-}
-
-.post h3 {
-  font-family: "Lato";
-  font-style: italic;
-  font-weight: 900;
-}
-
-.sidebar-about h1 {
-  font-family: "Lato";
-  font-style: italic;
-  font-weight: 900;
-}
-
-h1 {
-  font-weight: 700;
-}
-
-.sidebar-sticky img {
-  max-width: 85%;
-}
-
-@media (max-width: 48em) {
-  .sidebar-sticky img {
-    max-width: 0%;
   }
 }
