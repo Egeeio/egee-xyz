@@ -1,0 +1,109 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,900italic,700italic&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;500;600&display=swap");
+
+:root {
+  font-family: "Nunito", "Roboto", sans-serif;
+
+  --white: hsl(0, 0%, 100%);
+  --light: hsl(0, 0%, 96%);
+  --white-ter: hsl(0, 0%, 96%);
+  --white-bis: hsl(0, 0%, 98%);
+
+  --black: hsl(0, 0%, 4%);
+  --black-bis: hsl(0, 0%, 7%);
+  --black-ter: hsl(0, 0%, 14%);
+
+  --grey: hsl(0, 0%, 21%);
+  --grey-dark: hsl(0, 0%, 29%);
+  --grey-light: hsl(0, 0%, 71%);
+  --grey-lighter: hsl(0, 0%, 86%);
+
+  --yellow: hsl(48, 100%, 67%);
+  --green: hsl(141, 53%, 53%);
+  --turqoise: hsl(171, 100%, 41%);
+  --blue: hsl(217, 71%, 53%);
+  --cyan: hsl(204, 86%, 53%);
+  --red: hsl(348, 100%, 61%);
+}
+
+p,
+a {
+  font-family: "Nunito", "Roboto", sans-serif;
+}
+
+p {
+  margin-bottom: 0.8%;
+}
+
+.post-title {
+  font-weight: 800;
+}
+
+.post h3 {
+  font-family: "Roboto Slab", serif;
+  font-style: italic;
+  font-weight: 900;
+}
+
+.sidebar-about h1 a {
+  font-family: "Lato";
+  font-style: italic;
+  font-weight: 900;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+@media (max-height: 700px) {
+  .sidebar-sticky img {
+    /* max-width: 90%; */
+    display: none;
+  }
+}
+
+@media (max-width: 48em) {
+  .sidebar-sticky img {
+    max-width: 0%;
+  }
+}
+
+.sidebar {
+  background-color: var(--black-bis);
+}
+
+.footer,
+body,
+html {
+  background-color: var(--white-bis);
+}
+
+a {
+  color: var(--blue);
+}
+
+div.hero-body {
+  padding-top: 0%;
+}
+
+/* Because the Poole and Bulma hate each other */
+footer.footer {
+  padding-top: 0%;
+  padding-bottom: 0%;
+}
+
+.inner-footer {
+  padding-top: 0%;
+  padding-bottom: 1rem;
+}
+
+.footer p .content {
+  margin-bottom: 0.3rem;
+}
+
+hr {
+  border-top: var(--red);
+  border-bottom: var(--red);
+  background-color: var(--red);
+}
