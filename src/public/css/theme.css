@@ -96,14 +96,25 @@ footer.footer {
 .inner-footer {
   padding-top: 0%;
   padding-bottom: 1rem;
-}
-
-.footer p .content {
   margin-bottom: 0.3rem;
 }
 
-hr {
-  border-top: var(--red);
-  border-bottom: var(--red);
-  background-color: var(--red);
+.tech-footer {
+  font-size: 0.9rem;
+}
+
+/* color: #5e5cc7; */
+/* color: #F012BE; */
+/* color: #B10DC9; */
+/* color: #530dc9; */
+
+hr.mine {
+  border-top: #b10dc9;
+  border-bottom: #b10dc9;
+  background-color: #b10dc9;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

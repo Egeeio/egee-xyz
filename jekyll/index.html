@@ -1,0 +1,61 @@
+---
+layout: landing
+title: Home
+---
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container has-text-centered">
+      <div class="level">
+        <div class="level-item has-text-centered">
+          <figure class="image is-128x128">
+            <img class="is-rounded" src="public/face.png" />
+          </figure>
+        </div>
+      </div>
+      <p class="subtitle">Egee 🐾 Tracks!</p>
+    </div>
+  </div>
+</section>
+
+{% for topic in site.topics %}
+<div class="container has-text-centered">
+  <a href="{{ topic.item.url }}">
+    <div class="tile is-ancestor">
+      <div class="tile is-parent">
+        <div class="tile is-child box" href="{{ topic.item.url }}">
+          <span class="title">{{ topic.item.name }}</span>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+{% endfor %}
+<hr />
+{% for topic in site.youtubes %}
+<div class="container has-text-centered">
+  <a href="{{ topic.item.url }}">
+    <div class="tile is-ancestor">
+      <div class="tile is-parent">
+        <div class="tile is-child box" href="{{ topic.item.url }}">
+          <span class="title">{{ topic.item.name }}</span>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+{% endfor %}
+<hr />
+{% for topic in site.internal %}
+<div class="container has-text-centered">
+  <a href="{{ topic.item.url }}">
+    <div class="tile is-ancestor">
+      <div class="tile is-parent">
+        <div class="tile is-child box" href="{{ topic.item.url }}">
+          <span class="title">{{ topic.item.name }}</span>
+        </div>
+      </div>
+    </div>
+  </a>
+</div>
+{% endfor %}
