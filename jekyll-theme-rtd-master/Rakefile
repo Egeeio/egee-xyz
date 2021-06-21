@@ -1,0 +1,16 @@
+require 'rake/clean'
+
+task :serve do
+  puts "Serving..."
+  system "bundle exec jekyll serve --livereload"
+end
+
+task :build do
+  puts "Cleaning & Building..."
+  system "bundle exec jekyll clean"
+
+  system "bundle exec jekyll build"
+  puts "Build complete! - ./src/_site"
+end
+
+task default: [:serve]
