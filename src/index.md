@@ -7,15 +7,15 @@ title: Home
 
 I'm Egee - Welcome to my website! I do work on a plethora of stuff and this website helps organize all of my links and projects. It's is my Personal Home Page™ and link aggregator of sorts.
 
-I host the [Distro Delves Show](/distrodelves) on one YouTube channel, produce [asmr](https://www.youtube.com/channel/UCjaqCM6u1i78VNsoL_jW5lg) content for another channel, live stream on [Twitch](https://www.twitch.tv/egeexyz), contribute to Open Source on [Github](https://github.com/egee-irl), and produce music on [Soundcloud](https://soundcloud.com/egeeirl).
+I host the [Distro Delves Show](/distrodelves), produce [asmr](https://www.youtube.com/channel/UCjaqCM6u1i78VNsoL_jW5lg) and [other](https://www.youtube.com/channel/UCCZDIBQBx4Pk9AaIzEteDpA) videos on YouTube, live stream on [Twitch](https://www.twitch.tv/egeexyz), contribute to Open Source on [Github](https://github.com/egee-irl), record music on [Soundcloud](https://soundcloud.com/egeeirl), and dabble in indie [game development](/games).
 
 ### Who is Egee/Brian?
 
 Egee _(pronounced 'E-jee')_ is an anthromorphic Red Husky. If you'd like to learn about Egee, the _original character_, go [here](/ocs).
 
-He started out as a mascot for my main YouTube channel at the time. He became the "character" I played for the channel but he eventually become more like me (or me like him!) and now I'm basically just Egee all the time.
+He started out as a mascot for my main YouTube channel at the time. He became the "character" I played for the channel but he eventually become more like me and now I'm basically just Egee all the time.
 
-In real life, I am a multi-hat software engineer with proficiencies in SQA, SRE, DevOps, and technical writing. I wrote this website from scratch so I guess I wear a web-dev hat too.
+When I'm not Egee, I am a multi-hat software engineer with proficiencies in SQA, SRE, DevOps, and technical writing. I wrote this website from scratch so I guess I wear a web-dev hat too.
 
 I am agnostic about programming language but I prefer interpreted languages such as Python, Ruby, and Bash.
 
@@ -37,6 +37,6 @@ The purpose of this website is to have one place where people can learn about Eg
 
 I've used sites like [Medium](https://medium.com/@egee_irl) and Ghost.io but none of them worked the way that I needed them to so I decided to write my own.
 
-This website is just a simple [Jekyll](https://jekyllrb.com/) app with a theme based on [Poole](https://github.com/poole/poole) and customized with [Bulma.io](https://bulma.io/).
+This website is just a simple [Jekyll](https://jekyllrb.com/) site with a theme based on [Poole](https://github.com/poole/poole) and customized with [Bulma.io](https://bulma.io/).
 
 The code is Open Source and lives in [Github](https://github.com/egee-irl/egee-xyz). The website runs in AWS and is automagically deployed by an automated CI/CD process.

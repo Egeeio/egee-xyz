@@ -118,3 +118,7 @@ hr.mine {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+
+.no-left-margin {
+  margin-left: 0%;
+}
