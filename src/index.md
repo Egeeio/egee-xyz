@@ -5,7 +5,7 @@ title: Home
 
 # Hiya!
 
-I'm Egee - Welcome to my website! I do work on a plethora of stuff and this website helps organize all of my links and projects. It's is my Personal Home Page™ and link aggregator of sorts.
+I'm Egee - Welcome to my website! I do work on a plethora of stuff and this website helps organize all of my links and projects. It's my Personal Home Page™ and link aggregator of sorts.
 
 I host the [Distro Delves Show](/distrodelves), produce [asmr](https://www.youtube.com/channel/UCjaqCM6u1i78VNsoL_jW5lg) and [other](https://www.youtube.com/channel/UCCZDIBQBx4Pk9AaIzEteDpA) videos on YouTube, live stream on [Twitch](https://www.twitch.tv/egeexyz), contribute to Open Source on [Github](https://github.com/egee-irl), record music on [Soundcloud](https://soundcloud.com/egeeirl), and dabble in indie [game development](/games).
 
