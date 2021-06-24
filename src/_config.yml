@@ -1,22 +1,22 @@
-title:       Egee.xyz
-tagline:     "Personal Home Page"
+title: Egee.xyz
+tagline: "Personal Home Page"
 description: "cluttered drawer of links"
-url:         https://egee.xyz
-permalink:   pretty
-baseurl:     ''
+url: https://egee.xyz
+permalink: pretty
+baseurl: ""
 
 author:
   name: Egee
-  url:  https://egee.xyz
+  url: https://egee.xyz
 
 plugins: []
 
 exclude:
-- README.md
-- LICENSE
-- Gemfile
-- Gemfile.lock
-- Rakefile
-- .jekyll-cache
-- .gitignore
-- .editorconfig
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - .jekyll-cache
+  - .gitignore
+  - .editorconfig
