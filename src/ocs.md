@@ -13,7 +13,7 @@ Here are some of the OC's I have created. Feel free to make fanart of them if yo
 
 Egee started out as just an idea for a mascot for my YouTube channel. He was intended to be a [Konqi](https://community.kde.org/Konqi) but I decided to make him a Red Husky instead because I wanted something original to the community I was producing content for.
 
-His initial design was a simple anthromorphic Red Husky with cyan colored eyes. Besides being more floofy and having more outfits, his overall design is practically the same as the very [first](https://www.furaffinity.net/view/29900485/) commission I got of him.
+His initial design was a simple anthropomorphic Red Husky with cyan colored eyes. Besides being more floofy and having more outfits, his overall design is practically the same as the very [first](https://www.furaffinity.net/view/29900485/) commission I got of him.
 
 He slender but floofy with white on his front and red/gold on his back, ears, and nose. His hair is brown and shaggy and he's is normally 180cm tall but in the alternate universe he's only about 30cm tall.
 

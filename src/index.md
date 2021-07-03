@@ -11,7 +11,7 @@ I host the [Distro Delves Show](/distrodelves), produce [asmr](https://www.youtu
 
 ### Who is Egee/Brian?
 
-Egee _(pronounced 'E-jee')_ is an anthromorphic Red Husky. If you'd like to learn about Egee, the _original character_, go [here](/ocs).
+Egee _(pronounced 'E-jee')_ is an anthropomorphic Red Husky. If you'd like to learn about Egee, the _original character_, go [here](/ocs).
 
 He started out as a mascot for my main YouTube channel at the time. He became the "character" I played for the channel but he eventually become more like me and now I'm basically just Egee all the time.
 
